@@ -1,0 +1,8 @@
+.gradient-border {
+  width: 200px;
+  height: 100px;
+  background-image: linear-gradient(to right, #ff9966, #ff5e62);
+  border: 10px solid;
+  border-image-source: linear-gradient(to right, #ff9966, #ff5e62);
+  border-image-slice: 1;
+}
